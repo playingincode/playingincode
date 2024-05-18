@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Pytorch,Deep Learning**
 
-- 💬 Ask me about **Nodejs,Spring Boot**
+- 💬 Ask me about **Pytorch,Python**
 
 - 📫 How to reach me **nishitpoddar969@gmail.com**
 
