@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishit Poddar</h1>
-<h3 align="center">A 3rd Year Computer Science Student</h3>
+<h3 align="center">A 4th Year Computer Science Student</h3>
 <img align="right" alt="coding" width="400" src="https://e1.pxfuel.com/desktop-wallpaper/606/901/desktop-wallpaper-contact-follow-me-anime-programmer-thumbnail.jpg">
 
-- 🔭 I’m currently working on **Deepfake Detection**
+- 🔭 I’m currently working on **Action Recognition**
 
 - 🌱 I’m currently learning **Pytorch,Deep Learning**
 
